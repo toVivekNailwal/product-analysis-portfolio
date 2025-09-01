@@ -1,4 +1,3 @@
-# product-analysis-portfolio
 Premium Parking: SaaS Product Analysis Project
 =============================
 
