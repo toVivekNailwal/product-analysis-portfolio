@@ -1,5 +1,5 @@
 # product-analysis-portfolio
-SaaS Product Analysis Project
+Premium Parking: SaaS Product Analysis Project
 =============================
 
 Project Overview:
@@ -21,7 +21,6 @@ Key Contributions:
 Skills Highlighted:
 -------------------
 - SQL (data extraction and cohort analysis)
-- Excel dashboards & visualization
 - Product Analytics (DAU, WAU, MAU, Retention, CLV)
 - A/B Testing & experimentation
 - Cohort analysis
